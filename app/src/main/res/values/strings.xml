@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ListViewDemo-jacobmattox</string>
+    <string-array name="classes_last_semester">
+        <item>TensorFlow</item>
+        <item>Advanced Algorithms</item>
+        <item>Seminar for Computing in Society</item>
+        <item>Database Concepts</item>
+        <item>Software Engineering</item></string-array>
 </resources>
